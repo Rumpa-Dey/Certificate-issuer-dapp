@@ -49,7 +49,7 @@ The app is simple, transparent, and easy to use for both admins and students.
 
 ## 🖼️ Screenshots
 
-![Admin panel](screenshots/admin.png)
+![Admin panel](screenshots/Admin.png)
 
 ![Stuent panel](screenshots/student.png)
 
