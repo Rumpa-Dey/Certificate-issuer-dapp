@@ -1,0 +1,18 @@
+# Node modules and environment variables
+node_modules/
+.env
+
+# Hardhat build artifacts and cache
+artifacts/
+cache/
+
+# TypeChain generated files
+typechain/
+typechain-types/
+
+# Solidity coverage
+coverage/
+coverage.json
+
+# Hardhat Ignition default local deployment data
+ignition/deployments/chain-31337/
